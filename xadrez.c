@@ -7,7 +7,7 @@ int main() {
 
 
 
-    vel Novato - Movimentação das Peças
+    // Nivel Novato - Movimentação das Peças
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
 
     // Implementação de Movimentação do Bispo
